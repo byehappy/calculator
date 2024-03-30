@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.6
   math_expressions: ^2.4.0
   decimal: ^2.3.3
+  markdown_viewer: ^0.6.2
+  flutter_markdown: ^0.6.22
 
 dev_dependencies:
   flutter_test:
@@ -90,3 +92,5 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  assets:
+    - assets/useCalc.md
